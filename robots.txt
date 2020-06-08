@@ -1,0 +1,13 @@
+User-agent: Applebot
+User-agent: bing
+User-agent: bingbot
+User-agent: Bleriot
+User-agent: DuckDuckBot
+User-agent: DuckDuckGo-Favicons-Bot
+User-agent: Google
+User-agent: Googlebot
+Disallow:
+Crawl-delay: 5
+
+User-agent: *
+Disallow: /
