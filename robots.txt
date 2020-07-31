@@ -10,6 +10,7 @@ Disallow:
 Crawl-delay: 2
 
 User-agent: AdsBot-Google
+User-agent: Google-Adwords-Instant
 User-agent: Googlebot-Image
 User-agent: Googlebot-News
 User-agent: Googlebot-Video
